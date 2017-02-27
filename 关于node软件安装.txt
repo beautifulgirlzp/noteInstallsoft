@@ -1,0 +1,16 @@
+
+1.在终端中输入 命令行 ：echo ‘’>1.txt  建立一个1.txt空文件
+
+
+2.     1)安装xcode（3-4G）苹果开发工具
+       2）安装brew   （打开brew官网   复制一条命令 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 然后安装这个工具）
+       3）打开终端。输入命令行：brew install node（这样直接能安装node和git）
+       4） 打开终端的快捷键  ： goto shell 直接安装，安装完成后在相应文件夹上方出现一个小图标。  
+
+
+
+3 .mac的快捷键。    Command + 空格键。 出现搜索栏
+                 
+
+
+
